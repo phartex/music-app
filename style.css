@@ -1,0 +1,55 @@
+.upper{
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1rem;
+    justify-content: center;
+    max-height: 5px;
+    display: block;
+    align-items: center;
+}
+
+.main {
+    max-width: 400px;
+}
+.mind{
+    color:rgb(255, 102, 0);
+}
+.nice {
+    margin: 0 auto;
+    
+}
+.nice p {
+   color:rgb(255, 102, 0);
+   font-family: 'Lato', sans-serif;
+
+}
+
+ul.songs {
+    list-style-type: none;
+    padding: 0;    
+}
+
+ul.songs li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between 10px;
+    margin: 10px 0;
+}
+.btn {
+    background: rgb(163, 9, 143);
+    margin-right: 50%;
+    padding: 4px 10px
+    
+}
+
+.container {
+    max-width: 100%;
+    width: 500px;
+    margin: 30px auto;
+}
+.container p {
+    text-align: center;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+}
